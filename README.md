@@ -2,7 +2,7 @@
 
 ### 🚀 Data Scientist | AI & Machine Learning | Data Analytics | Python
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/minal-sadiq-4994b9372/) [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/minalsadiq)
+[!(https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/minal-sadiq-4994b9372/) [!(https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/minalsadiq)
 
 ---
 
