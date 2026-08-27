@@ -1,17 +1,17 @@
 <div align="center">
 
 # Minal Sadiq
-### Senior Data Science Practitioner & AI Engineer
+### Data Science Practitioner & AI Systems Engineer
 
 <p align="center">
   <a href="https://www.linkedin.com/in/minal-sadiq-4994b9372/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/minalsadiq">
-    <img src="https://img.shields.io/badge/GITHUB_PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:minalsadiq310@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -19,68 +19,68 @@
 
 ---
 
-### ⚡ Executive Summary
+### 🏛️ Executive Profile
 
-Data Science practitioner with hands-on domain experience spanning **3 data science internships, 25+ open-source repositories, and 10+ production-grade live web applications**. Specialized in translating complex, raw tabular and image datasets into interpretable machine learning pipelines, predictive classification engines, and scalable web solutions. Adept at managing the complete engineering lifecycle from rigorous exploratory data analysis (EDA) and robust feature engineering to hyperparameter optimization and cloud-based deployment.
+Results-driven **Data Science Practitioner and AI Engineer** specializing in the end-to-end architecture of predictive machine learning pipelines, deep learning computer vision frameworks, and interactive analytical web applications. Backed by practical domain experience across **3 data science internships**, **25+ production-focused open-source repositories**, and **10+ live-deployed applications**. Dedicated to bridging raw, complex data sources and high-impact business decisions through rigorous exploratory data analysis, robust feature engineering, and model interpretability.
 
 ---
 
-### 📊 Core Metrics & Impact
+### 📊 Key Performance Metrics
 
-| Metric | Scope / Scale |
+| Milestone / Deliverable | Quantitative Scale & Scope |
 | :--- | :--- |
-| **Open-Source Repositories** | 25+ Public ML & Data Analytics Repositories |
-| **Industry Experience** | 3 Completed Data Science Internships |
-| **Production Deployments** | 10+ Fully Functional Live Web Applications |
-| **Core Domain Expertise** | Predictive Modeling, Computer Vision, & Interactive AI Dashboards |
+| **Open-Source Repositories** | 25+ Production-Grade Repositories |
+| **Industry Internships** | 3 Completed Technical Internships |
+| **Live Cloud Deployments** | 10+ Streamlit & Netlify Web Applications |
+| **Core Specialization** | Supervised Learning, CNNs, & MLOps Dashboards |
 
 ---
 
-### 🚀 Featured Production Projects
+### 🚀 Featured Engineering Projects
 
 * **[Telco Customer Churn Predictive Analytics](https://github.com/minalsadiq/Telco-Customer-Churn-Predictive-Analytics)**  
-  * **Overview:** End-to-end predictive machine learning pipeline designed to identify high-risk customer churn segments using advanced classification algorithms (Scikit-Learn, XGBoost) and SHAP-driven interpretability.
-  * **Live Application:** [Access Streamlit App](https://telco-customer-churn-predictive-analytics-c8oyhjvenuvrphqej6xd.streamlit.app/)
+  * **Architecture:** End-to-end binary classification pipeline engineered with advanced ensemble techniques (XGBoost, Scikit-Learn) and SHAP (Shapley Additive exPlanations) for transparent feature attribution and risk factor identification.
+  * **Live Interface:** [Access Application](https://telco-customer-churn-predictive-analytics-c8oyhjvenuvrphqej6xd.streamlit.app/)
 
 * **[CardioPulse AI (Minal-AI-CardioPulse)](https://github.com/minalsadiq/Minal-AI-CardioPulse)**  
-  * **Overview:** Clinical decision-support web application leveraging cardiac health parameters to assess patient coronary risk profiles through optimized machine learning classifiers.
-  * **Live Application:** [Access Streamlit App](https://minal-ai-cardiopulse-9nofl4lxdqtf2vmmqexebg.streamlit.app/)
+  * **Architecture:** Clinical decision-support analytical suite utilizing multi-parameter biometric indicators to evaluate cardiovascular risk gradients via optimized machine learning models.
+  * **Live Interface:** [Access Application](https://minal-ai-cardiopulse-9nofl4lxdqtf2vmmqexebg.streamlit.app/)
 
 * **[Interactive Movies Dataset Analytics Hub](https://github.com/minalsadiq/movies-dataset)**  
-  * **Overview:** Comprehensive exploratory data analysis and exploratory dashboard built to analyze entertainment industry metrics, rating distributions, and cross-feature correlations.
-  * **Live Application:** [Access Streamlit App](https://movies-dataset-template.streamlit.app/)
+  * **Architecture:** Exploratory data analysis platform engineered to dissect high-dimensional entertainment datasets, uncovering multivariate correlations, rating distributions, and demographic trends.
+  * **Live Interface:** [Access Application](https://movies-dataset-template.streamlit.app/)
 
 * **[Apple Disease Detection using CNN](https://github.com/minalsadiq/Apple-Disease-Detection-using-CNN)**  
-  * **Overview:** Deep learning computer vision pipeline utilizing Convolutional Neural Networks (CNN) to automate agricultural diagnostics and classify leaf health status from image data.
+  * **Architecture:** Deep learning computer vision pipeline powered by Convolutional Neural Networks (CNN) to automate agricultural anomaly detection and classify leaf health pathologies from unstructured image data.
 
 ---
 
-### 🛠️ Technical Architecture & Stack
+### 🛠️ Technical Competency Stack
 
-* **Programming Languages:** Python, SQL
+* **Core Languages:** Python, SQL
 * **Data Processing & Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Microsoft Excel
-* **Machine Learning & Modeling:** Scikit-Learn, XGBoost, LightGBM, CatBoost, Random Forest, Decision Trees, Logistic Regression, Multilayer Perceptrons (MLP)
-* **Deep Learning & Computer Vision:** TensorFlow / Keras, Convolutional Neural Networks (CNN)
-* **Model Optimization & Validation:** Cross-Validation, Hyperparameter Tuning, Class Imbalance Handling (SMOTE), SHAP (Model Interpretability)
-* **MLOps & Deployment:** Streamlit, Netlify, Git, GitHub, Jupyter Notebooks, VS Code
+* **Machine Learning & Modeling:** Scikit-Learn, XGBoost, LightGBM, CatBoost, Random Forest, Decision Trees, Logistic Regression, MLP Classifiers
+* **Deep Learning & Vision:** TensorFlow / Keras, Convolutional Neural Networks (CNN)
+* **Optimization & Validation:** Stratified Cross-Validation, Hyperparameter Optimization, SMOTE (Class Imbalance Management), SHAP Interpretability
+* **MLOps & Infrastructure:** Streamlit, Netlify, Git, GitHub, Jupyter Notebooks, VS Code
 
 ---
 
-### 🔬 The Data Science Lifecycle Methodology
+### 🔄 The End-to-End Data Science Lifecycle
 
 ```text
-Problem Definition & Business Understanding
-                    ↓
-Data Extraction, Quality Audit & Cleaning
-                    ↓
+Business & Problem Definition
+              ↓
+Data Extraction & Rigorous Quality Audit
+              ↓
 Exploratory Data Analysis (EDA) & Statistical Profiling
-                    ↓
-Rigorous Train / Validation / Test Splitting Strategy
-                    ↓
+              ↓
+Train / Validation / Test Splitting Strategy
+              ↓
 Feature Engineering, Selection & Preprocessing
-                    ↓
+              ↓
 Model Training, Cross-Validation & Hyperparameter Tuning
-                    ↓
-Model Comparison, Evaluation & Post-Hoc Interpretation
-                    ↓
+              ↓
+Model Evaluation, Comparison & Post-Hoc Interpretation
+              ↓
 Production Packaging & Cloud Deployment (Streamlit / Netlify)
