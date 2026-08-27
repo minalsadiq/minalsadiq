@@ -1,7 +1,7 @@
+<div align="center">
 
-# ⚡ Minal Sadiq
-
-### 🚀 Data Scientist | AI & Machine Learning | Data Analytics | Python
+# Minal Sadiq
+### Senior Data Science Practitioner & AI Engineer
 
 <p align="center">
   <a href="https://www.linkedin.com/in/minal-sadiq-4994b9372/">
@@ -15,117 +15,72 @@
   </a>
 </p>
 
----
-
-### 📖 About Me
-
-I’m a **BS Data Science student** with a strong interest in **Artificial Intelligence, Machine Learning, Data Analytics, and AI Engineering**.
-
-I enjoy transforming raw and complex data into **meaningful insights, predictive models, and practical data-driven solutions**.
-
-My work focuses on building projects across the complete Data Science lifecycle from **data understanding and EDA to feature engineering, preprocessing, model training, evaluation, optimization, interpretation, and deployment**.
-
-I’m continuously strengthening my skills by working on **real-world datasets and end-to-end machine learning projects**.
+</div>
 
 ---
 
-### 🎯 Current Focus
+### ⚡ Executive Summary
 
-* 🤖 **Machine Learning & Artificial Intelligence**
-* 📊 **Data Analytics & Exploratory Data Analysis**
-* 🧹 **Data Cleaning & Preprocessing**
-* ⚙️ **Feature Engineering & Feature Selection**
-* 🧠 **Model Training, Evaluation & Interpretation**
-* 🔬 **Cross-Validation & Hyperparameter Tuning**
-* ⚖️ **Class Imbalance & Model Optimization**
-* 🚀 **ML Application Deployment with Streamlit**
+Data Science practitioner with hands-on domain experience spanning **3 data science internships, 25+ open-source repositories, and 10+ production-grade live web applications**. Specialized in translating complex, raw tabular and image datasets into interpretable machine learning pipelines, predictive classification engines, and scalable web solutions. Adept at managing the complete engineering lifecycle from rigorous exploratory data analysis (EDA) and robust feature engineering to hyperparameter optimization and cloud-based deployment.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 📊 Core Metrics & Impact
 
-#### 👩‍💻 Programming & Data
-
-`Python` `SQL` `Pandas` `NumPy`
-
-#### 📊 Data Analytics & Visualization
-
-`Matplotlib` `Seaborn` `Power BI` `Microsoft Excel`
-
-#### 🤖 Machine Learning
-
-`Scikit-learn` `Logistic Regression` `Decision Tree` `Random Forest`
-`Gradient Boosting` `XGBoost` `LightGBM` `CatBoost` `MLP`
-
-#### 🔧 Development & Deployment
-
-`Jupyter Notebook` `VS Code` `Git` `GitHub` `Streamlit`
+| Metric | Scope / Scale |
+| :--- | :--- |
+| **Open-Source Repositories** | 25+ Public ML & Data Analytics Repositories |
+| **Industry Experience** | 3 Completed Data Science Internships |
+| **Production Deployments** | 10+ Fully Functional Live Web Applications |
+| **Core Domain Expertise** | Predictive Modeling, Computer Vision, & Interactive AI Dashboards |
 
 ---
 
-### 🔬 My Data Science Approach
+### 🚀 Featured Production Projects
+
+* **[Telco Customer Churn Predictive Analytics](https://github.com/minalsadiq/Telco-Customer-Churn-Predictive-Analytics)**  
+  * **Overview:** End-to-end predictive machine learning pipeline designed to identify high-risk customer churn segments using advanced classification algorithms (Scikit-Learn, XGBoost) and SHAP-driven interpretability.
+  * **Live Application:** [Access Streamlit App](https://telco-customer-churn-predictive-analytics-c8oyhjvenuvrphqej6xd.streamlit.app/)
+
+* **[CardioPulse AI (Minal-AI-CardioPulse)](https://github.com/minalsadiq/Minal-AI-CardioPulse)**  
+  * **Overview:** Clinical decision-support web application leveraging cardiac health parameters to assess patient coronary risk profiles through optimized machine learning classifiers.
+  * **Live Application:** [Access Streamlit App](https://minal-ai-cardiopulse-9nofl4lxdqtf2vmmqexebg.streamlit.app/)
+
+* **[Interactive Movies Dataset Analytics Hub](https://github.com/minalsadiq/movies-dataset)**  
+  * **Overview:** Comprehensive exploratory data analysis and exploratory dashboard built to analyze entertainment industry metrics, rating distributions, and cross-feature correlations.
+  * **Live Application:** [Access Streamlit App](https://movies-dataset-template.streamlit.app/)
+
+* **[Apple Disease Detection using CNN](https://github.com/minalsadiq/Apple-Disease-Detection-using-CNN)**  
+  * **Overview:** Deep learning computer vision pipeline utilizing Convolutional Neural Networks (CNN) to automate agricultural diagnostics and classify leaf health status from image data.
+
+---
+
+### 🛠️ Technical Architecture & Stack
+
+* **Programming Languages:** Python, SQL
+* **Data Processing & Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Microsoft Excel
+* **Machine Learning & Modeling:** Scikit-Learn, XGBoost, LightGBM, CatBoost, Random Forest, Decision Trees, Logistic Regression, Multilayer Perceptrons (MLP)
+* **Deep Learning & Computer Vision:** TensorFlow / Keras, Convolutional Neural Networks (CNN)
+* **Model Optimization & Validation:** Cross-Validation, Hyperparameter Tuning, Class Imbalance Handling (SMOTE), SHAP (Model Interpretability)
+* **MLOps & Deployment:** Streamlit, Netlify, Git, GitHub, Jupyter Notebooks, VS Code
+
+---
+
+### 🔬 The Data Science Lifecycle Methodology
 
 ```text
-Problem Understanding
-        ↓
-Data Collection
-        ↓
-Data Quality & Cleaning
-        ↓
-Exploratory Data Analysis
-        ↓
-Train / Validation / Test Strategy
-        ↓
-Feature Engineering & Selection
-        ↓
-Preprocessing
-        ↓
-Model Training
-        ↓
-Cross-Validation & Hyperparameter Tuning
-        ↓
-Model Comparison & Selection
-        ↓
-Final Evaluation
-        ↓
-Interpretation & Business Insights
-        ↓
-Deployment
-```
-
-> **I don’t focus only on model accuracy I focus on building solutions that are reliable, interpretable, and meaningful in real-world scenarios.**
-
----
-
-### 🌱 Currently Learning
-
-* 🚀 Advanced Machine Learning
-* 🤖 AI Engineering
-* 🧠 Explainable & Interpretable ML
-* 📈 Advanced Data Analytics
-* ⚙️ Model Optimization
-* ☁️ ML Deployment & Production Practices
-
----
-
-### 💡 My Learning Philosophy
-
-**Learn → Build → Analyze → Improve → Deploy**
-
-I believe real growth in Data Science comes from **building practical projects, understanding the reasoning behind each step, and continuously improving the solution.**
-
----
-
-### 🤝 Let's Connect
-
-💼 **LinkedIn:** [Minal Sadiq](https://www.linkedin.com/in/minal-sadiq-4994b9372/)
-
-💻 **GitHub:** [minalsadiq](https://github.com/minalsadiq)
-
----
-
-### ⭐ Thanks for Visiting!
-
-If you find my projects interesting, feel free to explore my repositories and connect with me.
-
-**Turning data into insights. Building models into solutions. 🚀**
+Problem Definition & Business Understanding
+                    ↓
+Data Extraction, Quality Audit & Cleaning
+                    ↓
+Exploratory Data Analysis (EDA) & Statistical Profiling
+                    ↓
+Rigorous Train / Validation / Test Splitting Strategy
+                    ↓
+Feature Engineering, Selection & Preprocessing
+                    ↓
+Model Training, Cross-Validation & Hyperparameter Tuning
+                    ↓
+Model Comparison, Evaluation & Post-Hoc Interpretation
+                    ↓
+Production Packaging & Cloud Deployment (Streamlit / Netlify)
