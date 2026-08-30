@@ -1,6 +1,6 @@
 <div align="center">
 
-# Minal Sadiq
+# Hi 👋 I'm Minal Sadiq
 ### Data Science Practitioner & AI Systems Engineer
 
 <p align="center">
